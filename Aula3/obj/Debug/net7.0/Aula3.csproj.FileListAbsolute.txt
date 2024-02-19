@@ -1,0 +1,14 @@
+c:\Users\amand\OneDrive\Área de Trabalho\Programação\Cursos\Faculdade\Algoritmo e Programação II\aula3\codigoAula3\Aula3\bin\Debug\net7.0\Aula3.exe
+c:\Users\amand\OneDrive\Área de Trabalho\Programação\Cursos\Faculdade\Algoritmo e Programação II\aula3\codigoAula3\Aula3\bin\Debug\net7.0\Aula3.deps.json
+c:\Users\amand\OneDrive\Área de Trabalho\Programação\Cursos\Faculdade\Algoritmo e Programação II\aula3\codigoAula3\Aula3\bin\Debug\net7.0\Aula3.runtimeconfig.json
+c:\Users\amand\OneDrive\Área de Trabalho\Programação\Cursos\Faculdade\Algoritmo e Programação II\aula3\codigoAula3\Aula3\bin\Debug\net7.0\Aula3.dll
+c:\Users\amand\OneDrive\Área de Trabalho\Programação\Cursos\Faculdade\Algoritmo e Programação II\aula3\codigoAula3\Aula3\bin\Debug\net7.0\Aula3.pdb
+c:\Users\amand\OneDrive\Área de Trabalho\Programação\Cursos\Faculdade\Algoritmo e Programação II\aula3\codigoAula3\Aula3\obj\Debug\net7.0\Aula3.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\amand\OneDrive\Área de Trabalho\Programação\Cursos\Faculdade\Algoritmo e Programação II\aula3\codigoAula3\Aula3\obj\Debug\net7.0\Aula3.AssemblyInfoInputs.cache
+c:\Users\amand\OneDrive\Área de Trabalho\Programação\Cursos\Faculdade\Algoritmo e Programação II\aula3\codigoAula3\Aula3\obj\Debug\net7.0\Aula3.AssemblyInfo.cs
+c:\Users\amand\OneDrive\Área de Trabalho\Programação\Cursos\Faculdade\Algoritmo e Programação II\aula3\codigoAula3\Aula3\obj\Debug\net7.0\Aula3.csproj.CoreCompileInputs.cache
+c:\Users\amand\OneDrive\Área de Trabalho\Programação\Cursos\Faculdade\Algoritmo e Programação II\aula3\codigoAula3\Aula3\obj\Debug\net7.0\Aula3.dll
+c:\Users\amand\OneDrive\Área de Trabalho\Programação\Cursos\Faculdade\Algoritmo e Programação II\aula3\codigoAula3\Aula3\obj\Debug\net7.0\refint\Aula3.dll
+c:\Users\amand\OneDrive\Área de Trabalho\Programação\Cursos\Faculdade\Algoritmo e Programação II\aula3\codigoAula3\Aula3\obj\Debug\net7.0\Aula3.pdb
+c:\Users\amand\OneDrive\Área de Trabalho\Programação\Cursos\Faculdade\Algoritmo e Programação II\aula3\codigoAula3\Aula3\obj\Debug\net7.0\Aula3.genruntimeconfig.cache
+c:\Users\amand\OneDrive\Área de Trabalho\Programação\Cursos\Faculdade\Algoritmo e Programação II\aula3\codigoAula3\Aula3\obj\Debug\net7.0\ref\Aula3.dll
